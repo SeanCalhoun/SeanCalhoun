@@ -30,9 +30,10 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <a href="https://www.zenoss.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Zenoss-094AB2?&style=for-the-badge&logo=Zenoss&logoColor=white" />
-</a>
+    </a>
+    <img src="https://img.shields.io/badge/-Zabbix-FF6600?&style=for-the-badge&logo=Zabbix&logoColor=white" />
+
 
 </div>
 
