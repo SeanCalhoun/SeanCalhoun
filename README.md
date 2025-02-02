@@ -23,7 +23,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 | Traffic Analysis | <a href="https://github.com/SeanCalhoun/Network-Security-Traffic-Analysis"> Network Security and Traffic Analysis Lab|
 | Elastic | <a href="https://github.com/SeanCalhoun/Elastic-SIEM"> SIEM Lab|
 | Azure / Sentinel (SIEM) | <a href="https://github.com/SeanCalhoun/Azure-Sentinel-SIEM-Honeypot-Home-Lab"> Azure Sentinel (SIEM) Honeypot Home Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Vulnerability Management using Azure and Tenable | <a href="https://github.com/SeanCalhoun/Vulnerability-Management-Lab"> Vulnerability Management Lab|
 
 ## Tools
 
