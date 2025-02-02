@@ -69,5 +69,15 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Elastic-SIEM
+- Azure-Sentinel-SIEM-Honeypot-Home-Lab 
+- Vulnerability-Management-Lab
+- Incident-Detection-and-Response-IDR
+- Network-Security-Traffic-Analysis
+- Security-Information-and-Event-Management-SIEM
+- Malware-Detection
+- Python-Security-Automation
+- Security-Policy-and-Compliance-Framework
+- Securing-a-Linux-Server 
+- IDS-Configuration
+
