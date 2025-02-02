@@ -20,9 +20,9 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 |-----------------------------------------------|----------------------------|
 | IDS Configuration          | <a href="https://github.com/SeanCalhoun/IDS-Configuration">IDS Lab</a>|
 | Incident Response | <a href="https://github.com/SeanCalhoun/Incident-Response-and-Forensics">Detection Lab</a>|
-| Security Information and Event Management | <a href="https://github.com/SeanCalhoun/Security-Information-and-Event-Management-SIEM-"> SIEM Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Traffic Analysis | <a href="https://github.com/SeanCalhoun/Network-Security-Traffic-Analysis"> Network Security and Traffic Analysis Lab|
+| Elastic | <a href="https://github.com/SeanCalhoun/Elastic-SIEM"> SIEM Lab|
+| Azure / Sentinel (SIEM) | <a href="https://github.com/SeanCalhoun/Azure-Sentinel-SIEM-Honeypot-Home-Lab"> Azure Sentinel (SIEM) Honeypot Home Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
